@@ -1,6 +1,6 @@
 # Restful-booker API Test Suite
 
-![API Tests](https://github.com/YOUR-USERNAME/restful-booker-api-tests/actions/workflows/tests.yml/badge.svg)
+![API Tests](https://github.com/cane-rse/restful-booker-api-tests/actions/workflows/tests.yml/badge.svg)
 
 Automated and manual-style API tests for [Restful-booker](https://restful-booker.herokuapp.com/), a public practice API built for testers. The suite covers authentication, full booking CRUD, negative cases, and response schema validation, and it documents real defects found in the API.
 
